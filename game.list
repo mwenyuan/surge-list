@@ -1,0 +1,18 @@
+// dragalialost
+USER-AGENT,%E5%A4%B1%E8%90%BD%E7%9A%84%E9%BE%99%E7%BA%A6*
+USER-AGENT,com.nintendo.zaga*
+DOMAIN,48cc81cdb8de30e061928f56e9bd4b4d.baas.nintendo.com
+DOMAIN,omotenashi.cygames.jp
+DOMAIN-SUFFIX,dragalialost.com
+DOMAIN,dragalialost.akamaized.net
+IP-CIDR,137.116.144.239/32,no-resolve
+IP-CIDR,159.8.0.206/32,no-resolve
+IP-CIDR,159.8.38.37/32,no-resolve
+IP-CIDR,161.202.142.68/32,no-resolve
+IP-CIDR,161.202.142.72/32,no-resolve
+IP-CIDR,161.202.142.78/32,no-resolve
+IP-CIDR,161.202.142.86/32,no-resolve
+IP-CIDR,169.44.142.235/32,no-resolve
+IP-CIDR,169.45.108.205/32,no-resolve
+IP-CIDR,169.53.157.34/32,no-resolve
+IP-CIDR,20.44.202.90/32,no-resolve

@@ -1,0 +1,76 @@
+# https://www.netify.ai/resources/applications
+
+// Netflix
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,netflixdns
+IP-CIDR,23.246.0.0/18,no-resolve
+IP-CIDR,37.77.184.0/21,no-resolve
+IP-CIDR,45.57.0.0/17,no-resolve
+IP-CIDR,64.120.128.0/17,no-resolve
+IP-CIDR,66.197.128.0/17,no-resolve
+IP-CIDR,108.175.32.0/20,no-resolve
+IP-CIDR,192.173.64.0/18,no-resolve
+IP-CIDR,198.38.96.0/19,no-resolve
+IP-CIDR,198.45.48.0/20,no-resolve
+// Amazon Prime Video
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+DOMAIN,aiv-cdn.net.c.footprint.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,atv-ext.amazon.com
+DOMAIN-SUFFIX,atv-ps.amazon.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,primevideo.com
+// YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtubei.googleapis.com
+// Disney+
+USER-AGENT,Disney+*
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN,cdn.registerdisney.go.com
+// Vimeo
+USER-AGENT,vimeo*
+DOMAIN-KEYWORD,vimeo
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+// Spotify
+USER-AGENT,*Spotify*
+DOMAIN,audio-ak-spotify-com.akamaized.net
+DOMAIN,audio-akp-bbr-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,heads-ak-spotify-com.akamaized.net
+DOMAIN,spotify-com.akamaized.net
+DOMAIN,spotify.com.edgesuite.net
+DOMAIN,spotify.demdex.net
+DOMAIN,spotify.edgekey.net
+DOMAIN,spotify.map.fastly.net
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotilocal.com
+// Apple
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,vod-ak-amt.tv.apple.com
+DOMAIN,vod-ak-aoc.tv.apple.com
+DOMAIN,vod-ap-amt.tv.apple.com
+DOMAIN,vod-ap-aoc.tv.apple.com

@@ -1,0 +1,25 @@
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com // Google Play downloads
+DOMAIN-SUFFIX,nest.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,tw,Proxy
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN,zh.ifixit.com

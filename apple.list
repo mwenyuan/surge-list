@@ -1,0 +1,13 @@
+PROCESS-NAME,storedownloadd // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
