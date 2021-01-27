@@ -26,3 +26,5 @@ IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,wmho.me
+DOMAIN-SUFFIX,rrsz.work
